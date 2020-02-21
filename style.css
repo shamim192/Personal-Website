@@ -1,0 +1,155 @@
+body {
+    font-family:'Poppins', sans-serif;
+    margin: 0px;
+       
+}
+.Name{
+    font-family: 'Sacramento', cursive;
+    font-size: 55px;
+    color:#ec4590;
+    margin-bottom: 5%;
+}
+.half-width-left p{
+    margin-bottom: 6%;
+    font-weight: 700;
+  }
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-width-left{
+    margin-top: 12%;
+    margin-bottom:5%;
+   margin-left:6%;
+    
+}
+.half-width-right{
+    margin-top: 1%;
+    margin-right: 3%;
+}
+.half-width-right img{
+    width:100%;
+    
+}
+article{
+    color: #707070;
+}
+
+section{
+    height:657px;
+    padding-bottom:150px;
+    
+}
+.header{
+    background-image: url("header-bg.png");
+    background-size: cover;
+
+    
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    color:white;
+    font-weight: 700;
+    border-radius:5px;
+    background-image:linear-gradient( 45deg, #ec4f91,#ed4b73);
+
+
+}
+.half-width-left img{
+    width:100%;
+}
+.bio-content{
+    margin-top: 30%;
+}
+.bio-area{
+    background-image: url("biography-bg.png");
+    height:900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+.bio-content a{
+    text-decoration: none;
+    padding: 10px 20px;
+    color:white;
+    font-weight: 700;
+    border-radius:5px;
+    background-image:linear-gradient( 45deg, #ec4f91,#ed4b73);
+
+}
+h2{
+    font-family:'Sacramento', cursive;
+    font-size: 50px; 
+    color:#ec4590;
+}
+.work{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    height: 350px;
+    padding-bottom: 300px;
+    background-size: cover;
+}
+.my-latest{
+    text-align: center;
+    font-family:'Sacramento', cursive;
+    font-size: 50px; 
+    color:#ec4590;
+    padding: 50px;
+
+}
+.project{
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+}
+.project img{
+ width:100%;
+ cursor: pointer;
+}
+  
+.heading-title{
+    text-align: center;
+}
+.client-area{
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+    height:657px;
+       
+}
+.client-info{
+    text-align: center;
+    margin-top: 3%;
+}
+#compliment{
+    text-align: center;
+    font-weight: 400;
+   
+}
+.active-status{
+    text-align: center;
+}
+.email-link{
+    text-align: center;
+}
+.messege-button{    
+    font-family:'Poppins', sans-serif;
+    text-decoration: none;
+     padding: 10px 20px;
+    color:white;
+    font-weight: 700;
+    border-radius:5px;
+    background-image:linear-gradient( 45deg, #ec4f91,#ed4b73);
+    margin-top: 5%;
+    
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
